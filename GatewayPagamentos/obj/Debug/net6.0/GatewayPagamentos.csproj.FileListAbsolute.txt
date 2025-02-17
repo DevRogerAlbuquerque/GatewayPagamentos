@@ -1,0 +1,90 @@
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.exe
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.deps.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.runtimeconfig.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.pdb
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\MercadoPago.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.AssemblyReference.cache
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.AssemblyInfoInputs.cache
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.AssemblyInfo.cs
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.GatewayPagamentos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.build.GatewayPagamentos.props
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GatewayPagamentos.props
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GatewayPagamentos.props
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\scopedcss\bundle\GatewayPagamentos.styles.css
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.CopyComplete
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\refint\GatewayPagamentos.dll
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.pdb
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.genruntimeconfig.cache
+C:\Users\rogso\Documents\SIGA API\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\ref\GatewayPagamentos.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.Development.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.exe
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.deps.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.runtimeconfig.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\GatewayPagamentos.pdb
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\MercadoPago.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.AssemblyReference.cache
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.AssemblyInfoInputs.cache
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.AssemblyInfo.cs
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.CoreCompileInputs.cache
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.MvcApplicationPartsAssemblyInfo.cs
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.GatewayPagamentos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.build.GatewayPagamentos.props
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GatewayPagamentos.props
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GatewayPagamentos.props
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.build.json
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\staticwebassets.development.json
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\scopedcss\bundle\GatewayPagamentos.styles.css
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.csproj.CopyComplete
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\refint\GatewayPagamentos.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.pdb
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.genruntimeconfig.cache
+C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\ref\GatewayPagamentos.dll
