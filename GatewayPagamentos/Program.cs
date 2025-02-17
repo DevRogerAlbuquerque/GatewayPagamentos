@@ -13,10 +13,10 @@ builder.Services.AddCors(options =>
 });
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-app.Urls.Add($"http://*:{port}");
 
 builder.Services.AddControllers();
 var app = builder.Build();
+app.Urls.Add($"http://*:{port}");
 
 app.UseCors("AllowReactApp");
 
