@@ -1,5 +1,5 @@
 # Etapa 1: Build da aplicação
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 
 # Copiar os arquivos do projeto e restaurar as dependências
@@ -12,7 +12,7 @@ COPY . .
 RUN dotnet publish GatewayPagamentos/GatewayPagamentos.csproj -c Release -o /app/out
 
 # Etapa 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 
 # Copiar apenas os arquivos necessários do build anterior
