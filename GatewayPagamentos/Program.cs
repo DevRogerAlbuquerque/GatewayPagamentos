@@ -6,7 +6,7 @@ builder.Services.AddCors(options =>
         policy =>
         {
             policy.WithOrigins("http://localhost:3000") 
-                .WithOrigins("http://slam-fundao.vercel.app")
+                .WithOrigins("https://slam-fundao.vercel.app")
                   .AllowAnyMethod()
                   .AllowAnyHeader();
         });
