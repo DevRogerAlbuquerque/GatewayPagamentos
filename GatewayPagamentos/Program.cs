@@ -5,15 +5,18 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactApp",
         policy =>
         {
-            policy.WithOrigins("http://localhost:3000") 
-                .WithOrigins("http://slam-fundao.vercel.app")
-                .WithOrigins("https://slamfundao.com.br")
-                .WithOrigins("https://www.slamfundao.com.br")
-                .WithOrigins("http://www.api.slamfundao.com.br")
-                  .AllowAnyMethod()
-                  .AllowAnyHeader();
+            policy.WithOrigins(
+                    "http://localhost:3000",
+                    "http://slam-fundao.vercel.app",
+                    "https://slamfundao.com.br",
+                    "https://www.slamfundao.com.br",
+                    "http://www.api.slamfundao.com.br"
+                )
+                .AllowAnyMethod()
+                .AllowAnyHeader();
         });
 });
+
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 
