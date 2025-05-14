@@ -1,0 +1,49 @@
+## Ignore arquivos do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore arquivos de build e publish
+bin/
+obj/
+out/
+*.log
+
+## Ignore arquivos de pacotes
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore arquivos de configuração sensíveis ou locais
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+## Ignore arquivos de log e temporários
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+
+## Ignore Rider
+.idea/
+
+## Ignore arquivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.stackdump
+
+## Ignore arquivos do Windows
+$RECYCLE.BIN/
+
+## Ignore publish profiles
+Properties/PublishProfiles/
