@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
@@ -5,17 +7,27 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactApp",
         policy =>
         {
-            policy.WithOrigins(
-                    "http://localhost:3000",
-                    "http://slam-fundao.vercel.app",
-                    "https://slamfundao.com.br",
-                    "https://www.slamfundao.com.br",
-                    "http://www.api.slamfundao.com.br"
-                )
+            policy
+                .SetIsOriginAllowed(origin =>
+                {
+                    if (string.IsNullOrEmpty(origin))
+                        return false;
+                    
+                    var regex = new Regex(@"^https?:\/\/([a-zA-Z0-9-]+\.)*slamfundao\.com\.br$", RegexOptions.IgnoreCase);
+
+                    if (origin.Contains("slam-fundao.vercel.app", StringComparison.OrdinalIgnoreCase))
+                        return true;
+
+                    if (origin.StartsWith("http://localhost", StringComparison.OrdinalIgnoreCase))
+                        return true;
+                    
+                    return regex.IsMatch(origin);
+                })
                 .AllowAnyMethod()
                 .AllowAnyHeader();
         });
 });
+
 
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";

@@ -88,3 +88,6 @@ C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\refint\GatewayPagame
 C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.pdb
 C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\GatewayPagamentos.genruntimeconfig.cache
 C:\git\GatewayPagamentos\GatewayPagamentos\obj\Debug\net6.0\ref\GatewayPagamentos.dll
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.json.exemplo.Development.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\appsettings.json.exemplo.json
+C:\git\GatewayPagamentos\GatewayPagamentos\bin\Debug\net6.0\.gitignore
