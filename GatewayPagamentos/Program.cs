@@ -9,6 +9,7 @@ builder.Services.AddCors(options =>
                 .WithOrigins("http://slam-fundao.vercel.app")
                 .WithOrigins("https://slamfundao.com.br")
                 .WithOrigins("https://www.slamfundao.com.br")
+                .WithOrigins("http://www.api.slamfundao.com.br")
                   .AllowAnyMethod()
                   .AllowAnyHeader();
         });
